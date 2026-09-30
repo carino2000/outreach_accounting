@@ -35,7 +35,7 @@ spring:
     url: jdbc:mysql://localhost:3306/outreach_accounting
     driver-class-name: com.mysql.cj.jdbc.Driver
     username: root
-    password: qowlgns9231
+    password: YOUR_DB_PASSWORD
   jpa:
     hibernate:
       ddl-auto: none
